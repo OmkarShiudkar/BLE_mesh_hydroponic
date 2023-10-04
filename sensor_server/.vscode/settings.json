@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "device.h": "c",
+        "kernel.h": "c",
+        "toolchain.h": "c",
+        "dk_buttons_and_leds.h": "c",
+        "types.h": "c",
+        "models.h": "c",
+        "sensor_types.h": "c",
+        "model_handler.h": "c",
+        "sensor.h": "c"
+    }
+}
